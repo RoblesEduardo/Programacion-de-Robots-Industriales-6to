@@ -1,3 +1,3 @@
 # Robles.Vazquez.Eduardo.
-Ing. Mecatronica 6°A
+Ingenieria en Mecatronica
 Programacion de Robots Industriales 
